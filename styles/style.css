@@ -229,6 +229,7 @@ display: flex;
 align-items: center;
 flex-direction: column;
 overflow: hidden;
+position: relative;
 
 }
 .section-title_theme_dark{
