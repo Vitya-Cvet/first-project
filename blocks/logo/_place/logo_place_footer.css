@@ -1,8 +1,8 @@
 .logo_place_footer {
-    background-image: url(../../../images/logo_place_footer.svg);
-  }
-  
-  .logo_place_footer:hover {
-    opacity: 0.5;
-    transition: 0.5s;
-  }
+  background-image: url(../../../images/logo_place_footer.svg);
+}
+
+.logo_place_footer:hover {
+  opacity: 0.5;
+  transition: 0.5s;
+}

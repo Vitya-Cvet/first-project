@@ -1,12 +1,12 @@
 .logo_place_header {
-    position: absolute;
-    top: 30px;
-    left: 64px;
-    background-image: url(../../../images/logo_place_header.svg);
-    z-index: 2;
-  }
-  
-  .logo_place_header:hover {
-    opacity: 0.5;
-    transition: 0.5s;
-  }
+  position: absolute;
+  top: 30px;
+  left: 64px;
+  background-image: url(../../../images/logo_place_header.svg);
+  z-index: 2;
+}
+
+.logo_place_header:hover {
+  opacity: 0.5;
+  transition: 0.5s;
+}
